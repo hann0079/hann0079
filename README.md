@@ -3,12 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=180&text=Haeun's%20GitHub🐹&fontColor=ffffff&fontSize=40&animation=twinkling)
 
 ### ⚒ Tech Stack ⚒
+
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,17 +19,15 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 <br><br>
-
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 
-<br><br>
-  
+<br><br>  
 ### ✍ Contact 📧
 <br>
 <a href="https://velog.io/@hann79"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp;
 <!--<a href="mailto:gkdmsgkdms00@naver.com"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a>-->
 <a href="mailto:gkdmsgkdms00@naver.com"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:gkdmsgkdms00@naver.com"/></a>
-<br><br>
+<br><br><br><br>
 
 <!--/
 
