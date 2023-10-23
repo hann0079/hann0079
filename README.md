@@ -20,7 +20,7 @@
   
 ### ✍ Contact 📧
 <br>
-<a href="https://velog.io/@hann79"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp;
+<!-- <a href="https://velog.io/@hann79"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp; -->
 <a href="mailto:gkdmsgkdms00@naver.com"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:gkdmsgkdms00@naver.com"/></a>
 <br><br><br><br>
 
