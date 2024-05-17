@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/Data-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 
 <img src="https://img.shields.io/badge/Web-Backend-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
